@@ -55,8 +55,6 @@ https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playl
 https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us@US",Bloomberg Originals (1080p)
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV (720p)
-https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8
 #EXTINF:-1 tvg-id="BounceXL.us@SD",Bounce XL (720p)
 https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us@SD",BritBox Mysteries (1080p)
@@ -225,7 +223,7 @@ https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playl
 https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us@SD",News 12 New York (1080p)
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHL (1080p)
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (1080p)
 https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
 #EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (720p)
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
@@ -303,7 +301,7 @@ https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playl
 https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8
 #EXTINF:-1 tvg-id="",WBTV At the Movies (720p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
-#EXTINF:-1 tvg-id="",WBTV Chasing Criminals [Geo-blocked]
+#EXTINF:-1 tvg-id="",WBTV Chasing Criminals (720p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8
 #EXTINF:-1 tvg-id="",WBTV Classic Cinema (720p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8

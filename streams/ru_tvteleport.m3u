@@ -37,7 +37,7 @@ http://31.148.48.15/Fan/index.m3u8
 http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@SD",FoodTime (1080p)
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="HDL.ru@SD",HDL (720p)
+#EXTINF:-1 tvg-id="",HDL (720p)
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 tvg-id="Hollywood.ru@SD",Hollywood (576p)
 http://31.148.48.15/AMC/index.m3u8
@@ -71,8 +71,6 @@ http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by@SD",Беларусь 24 (576p)
 http://31.148.48.15/Belarus_24/index.m3u8
-#EXTINF:-1 tvg-id="BelRos.ru@SD",БелРос (576p)
-http://31.148.48.15/BelRos/index.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru@SD",Бокс ТВ (720p)
 http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru@SD",Время (576p)
@@ -115,7 +113,7 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 tvg-id="Ktoestkto.ru@SD",Кто есть Кто (576p)
 http://31.148.48.15/Kto_est_kto/index.m3u8
-#EXTINF:-1 tvg-id="KukhnyaTV.ru@SD",Кухня ТВ (576p)
+#EXTINF:-1 tvg-id="",Кухня ТВ (576p)
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 tvg-id="Mama.ru@SD",Мама (576p)
 http://31.148.48.15/Mama/index.m3u8
